@@ -85,8 +85,8 @@ Grade assignment will be on the basis of total points and will follow the usual 
 
 ## Important dates
 
-* Deadline draft project description: Wednesday, January 29, 2020 at 2:30 PM
-* Deadline revised project description: Wednesday, February 5, 2020 at 2:30 PM.
+* Deadline draft project description: Monday, February 3, 2020 at 2:30 PM
+* Deadline revised project description: Monday, February 10, 2020 at 2:30 PM.
 * Deadline project files: Wednesday, May 6, 2020 at 5 PM
 * Final project presentation: Friday, May 15 2020 from 11:40 to 13:40 in room 1021
 
